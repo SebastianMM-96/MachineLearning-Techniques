@@ -44,7 +44,7 @@ There are two main types of unsupervised learning, which are:
 
 * Dataset transformations.
 
-![dimensionalityReduction](dimensionalityReduction.png)
+![dimensionalityReduction](img/dimensionalityReduction.png)
 
 * Clustering.
 
