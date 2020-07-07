@@ -1,1 +1,1 @@
-# About Logistic regression
+# About: Logistic regression
