@@ -27,7 +27,12 @@ According to _[1]_: "_The goal is to make accurate predictions for new and never
 There are two main types of Supervised Learning problems, which are:
 
 * Regression problems.
+
+![regression](img/Regresion.png)
+
 * Classification problems.
+
+![clasificacion](img/clasificacion.png)
 
 ### Unsupervised learning
 
@@ -38,7 +43,12 @@ Unsupervised learning algorithms are presented when the correct output that woul
 There are two main types of unsupervised learning, which are:
 
 * Dataset transformations.
+
+![dimensionalityReduction](dimensionalityReduction.png)
+
 * Clustering.
+
+![clustering](img/clustering.png)
 
 ## Other Machine Learning Methods
 
