@@ -14,6 +14,6 @@ The data sets have been collected from different platforms, such as:
 * [Clustering basic benchmark](http://cs.joensuu.fi/sipu/datasets/)
 * [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 
-## Types of learning
+## Types of Machine Learning
 ### Supervised learning
 ### Unsupervised learning
